@@ -34,5 +34,7 @@ systemctl restart hue.service
 
 1. HUE por HDFS correctamente configurado
  ![Alt text](image-5.png)
+ Y conectado a s3
+ ![Alt text](image-7.png)
 2. Jupyertlab corriendo correctamente
  ![Alt text](image-6.png)
