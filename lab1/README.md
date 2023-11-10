@@ -28,7 +28,24 @@
      hdfs dfs -copyFromLocal st0263-232/bigdata/datasets/* /user/hadoop/datasets
     ```
     ![Alt text](image-2.png)
+    ![Alt text](image-1.png)
+
     (tenia los archivos locales en la carpeta datasets)
     
-Resultado hasta el momento:
-![Alt text](image-1.png)
+Copiar archivos desde s3:
+![Alt text](image-3.png)
+![Alt text](image-4.png)
+
+6. Copiar archivos al local: 
+   ![Alt text](image-5.png)
+
+7. Probar otros comandos:
+ ![Alt text](image-6.png)
+
+8. Subir archivos desde HUE Amazon EMR:
+
+![Alt text](image-7.png)
+
+![Alt text](image-8.png)
+
+![Alt text](image-9.png)
