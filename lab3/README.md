@@ -30,8 +30,8 @@
     ![Alt text](image-15.png)
     ![Alt text](image-16.png)
     4. Crear una base de datos externa en s3
-    ![Alt text](image-17.png)
-    ![Alt text](image-18.png)
+    ![Alt text](image-21.png)
+    ![Alt text](image-22.png)
     5. Cargar datos en tabla event2
-    ![Alt text](image-19.png)
-    ![Alt text](image-20.png)
+    ![Alt text](image-23.png)
+    ![Alt text](image-24.png)
